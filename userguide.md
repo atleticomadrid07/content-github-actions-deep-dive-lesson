@@ -1,4 +1,4 @@
-# User Guide
+# User Guide:
 
 
 __New feature alert!__
